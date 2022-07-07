@@ -1,0 +1,240 @@
+Entered circle.
+x:4.000000
+y:5.000000
+r:6.000000
+point.x:4.000000
+point.y:5.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:250.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:250.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:500.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:500.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:250.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:250.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:250.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:500.000000
+y:500.000000
+r:250.000000
+point.x:500.000000
+point.y:500.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000
+Entered circle.
+x:1.000000
+y:2.000000
+r:3.000000
+point.x:1.000000
+point.y:2.000000

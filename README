@@ -1,0 +1,10 @@
+THE See++ LANGUAGE COMPILER
+
+Authors LOL we'll do this later
+
+
+To compile and run See++ programs, first run 'make' to create the compiler executable 'seepp.native', along with object code for our SVG libraries.
+
+$ make
+$ ./seepp tests/test-draw
+
