@@ -1,23 +1,23 @@
 # personal-course-projects
 
-README
+**README**
 
 These are projects that I have done on my own in either classes or my free time. I will take some time in the future to make them cleaner but some of these
 were written as much as 2 years ago when I had just started learning Python. 
 
-Sudoku / sudoku-ta.py
+**Sudoku / sudoku-ta.py**
 
 This was an exercise in AI, creating a bot that can solve sudoku puzzles.
 
-Connect Four / connectfour_ta.py
+**Connect Four / connectfour_ta.py**
 
 This was also in AI, creating a bot to play against in Connect Four with difficulty corresponding to how many moves it can look ahead.
 
-Physics Research Analysis / python_field_angle_analysis_PHYS299.py
+**Physics Research Analysis / python_field_angle_analysis_PHYS299.py**
 
 This was an example of the type of data analysis / visualization I would do in my lab. 
 
-See++
+**See++**
 
 (temporary description below ... will overwrite this)
 
